@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Вакантная должность",
+  "name": "IISProba13ВакантДолжнE",
+  "className": "ВакантДолжнE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba13-вакант-должн",
+      "modelProjection": "ВакантДолжнE"
+    }
+  ]
+}

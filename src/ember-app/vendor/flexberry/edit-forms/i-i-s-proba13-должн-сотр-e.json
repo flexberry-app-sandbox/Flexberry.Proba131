@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Должность сотрудника",
+  "name": "IISProba13ДолжнСотрE",
+  "className": "ДолжнСотрE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba13-должн-сотр",
+      "modelProjection": "ДолжнСотрE"
+    }
+  ]
+}

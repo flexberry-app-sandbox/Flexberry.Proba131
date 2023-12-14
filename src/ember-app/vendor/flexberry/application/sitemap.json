@@ -1,0 +1,80 @@
+﻿{
+  "applicationCaption": "Menu",
+  "applicationTitle": "Menu",
+  "items": [
+    {
+      "link": null,
+      "menuName": "информация-об-организации",
+      "caption": "Информация об организации",
+      "title": "Информация об организации",
+      "children": [
+        {
+          "link": "i-i-s-proba13-вакант-должн-l",
+          "menuName": null,
+          "caption": "Вакант должн",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba13-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "документы",
+      "caption": "Документы",
+      "title": "Документы",
+      "children": [
+        {
+          "link": "i-i-s-proba13-рег-результ-l",
+          "menuName": null,
+          "caption": "РегРезультL",
+          "title": "Рег результ",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba13-планир-собес-l",
+          "menuName": null,
+          "caption": "ПланирСобесL",
+          "title": "Планир собес",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba13-регист-анкеты-l",
+          "menuName": null,
+          "caption": "РегистАнкетыL",
+          "title": "Регист анкеты",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "информация-о-сотрудниках",
+      "caption": "Информация о сотрудниках",
+      "title": "Информация о сотрудниках",
+      "children": [
+        {
+          "link": "i-i-s-proba13-должн-сотр-l",
+          "menuName": null,
+          "caption": "ДолжнСотрL",
+          "title": "Должн сотр",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba13-сотрудники-l",
+          "menuName": null,
+          "caption": "СотрудникиL",
+          "title": "Сотрудники",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
