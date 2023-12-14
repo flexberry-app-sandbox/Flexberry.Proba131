@@ -11,7 +11,7 @@
         {
           "link": "i-i-s-proba13-вакант-должн-l",
           "menuName": null,
-          "caption": "Вакант должн",
+          "caption": "Вакантная должность",
           "title": "",
           "children": null
         },
@@ -33,22 +33,22 @@
         {
           "link": "i-i-s-proba13-рег-результ-l",
           "menuName": null,
-          "caption": "РегРезультL",
-          "title": "Рег результ",
+          "caption": "Регистрация результатов",
+          "title": "Регистрация результатов",
           "children": null
         },
         {
           "link": "i-i-s-proba13-планир-собес-l",
           "menuName": null,
-          "caption": "ПланирСобесL",
-          "title": "Планир собес",
+          "caption": "Планирование собеседования",
+          "title": "Планирование собеседования",
           "children": null
         },
         {
           "link": "i-i-s-proba13-регист-анкеты-l",
           "menuName": null,
-          "caption": "РегистАнкетыL",
-          "title": "Регист анкеты",
+          "caption": "Регистрация анкеты кандидата",
+          "title": "Регистрация анкеты кандидата",
           "children": null
         }
       ]
@@ -62,14 +62,14 @@
         {
           "link": "i-i-s-proba13-должн-сотр-l",
           "menuName": null,
-          "caption": "ДолжнСотрL",
-          "title": "Должн сотр",
+          "caption": "Должности сотрудников",
+          "title": "Должности сотрудников",
           "children": null
         },
         {
           "link": "i-i-s-proba13-сотрудники-l",
           "menuName": null,
-          "caption": "СотрудникиL",
+          "caption": "Сотрудники",
           "title": "Сотрудники",
           "children": null
         }
